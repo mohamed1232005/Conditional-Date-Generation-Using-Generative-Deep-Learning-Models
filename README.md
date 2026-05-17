@@ -169,7 +169,7 @@ Four models were implemented and trained. Two are from the course curriculum and
 
 ---
 
-### Model 1 — Conditional Autoencoder (IN-COURSE)
+### Model 1 — Conditional Autoencoder 
 
 **File:** `model1_ae.py`
 
@@ -207,7 +207,7 @@ Plain cross-entropy averaged over all 8 digit positions. No KL or regularisation
 
 ---
 
-### Model 2 — Conditional GAN with WGAN-GP (IN-COURSE, REQUIRED)
+### Model 2 — Conditional GAN with WGAN-GP 
 
 **File:** `model2_gan.py`
 
@@ -254,7 +254,7 @@ Gradient Penalty:
 
 ---
 
-### Model 3 — Transformer Encoder-Decoder (OUTSIDE-COURSE)
+### Model 3 — Transformer Encoder-Decoder 
 
 **File:** `model3_transformer.py`
 
@@ -298,7 +298,7 @@ Teacher forcing is used during training (standard for encoder-decoder). Auto-reg
 
 ---
 
-### Model 4 — BiLSTM with Bahdanau Attention (OUTSIDE-COURSE)
+### Model 4 — BiLSTM with Bahdanau Attention 
 
 **File:** `model4_bilstm_attention.py`
 
